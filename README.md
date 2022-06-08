@@ -29,6 +29,6 @@ Clean and organize your hierarchy with Empty objects
 
 
 
-[Screenshot (630)](https://user-images.githubusercontent.com/76790667/172213905-4f6a23f5-5624-41c3-b9f1-ee7a1b0df5f5.png)
+![Screenshot (630)](https://user-images.githubusercontent.com/76790667/172213905-4f6a23f5-5624-41c3-b9f1-ee7a1b0df5f5.png)
 ![Screenshot (631)](https://user-images.githubusercontent.com/76790667/172213918-f8316eb1-59d4-4c4e-8523-767d79c9cf54.png)
 ![Screenshot (633)](https://user-images.githubusercontent.com/76790667/172213928-019ed5b0-ba37-4f9e-bfec-e4ee0fa460d7.png)
